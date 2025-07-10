@@ -1,0 +1,44 @@
+[2025-07-09T19:12:30.207Z] INFO: Navigating to Demoblaze homepage
+[2025-07-09T19:12:30.797Z] INFO: Navigating to Demoblaze homepage
+[2025-07-09T19:12:31.449Z] INFO: Adding first product to cart
+[2025-07-09T19:12:32.268Z] INFO: Navigating to Demoblaze homepage
+[2025-07-09T19:12:32.311Z] INFO: Adding first product to cart
+[2025-07-09T19:12:33.868Z] INFO: Adding first product to cart
+[2025-07-09T19:12:34.824Z] INFO: Returning to homepage
+[2025-07-09T19:12:34.873Z] INFO: Adding second product to cart
+[2025-07-09T19:12:34.981Z] INFO: Returning to homepage
+[2025-07-09T19:12:35.240Z] INFO: Adding second product to cart
+[2025-07-09T19:12:36.053Z] INFO: Navigating to cart page
+[2025-07-09T19:12:36.390Z] INFO: Verifying total price
+[2025-07-09T19:12:36.406Z] INFO: Total price in cart: 0
+[2025-07-09T19:12:37.068Z] INFO: Navigating to cart page
+[2025-07-09T19:12:37.608Z] INFO: Verifying total price
+[2025-07-09T19:12:37.663Z] INFO: Total price in cart: 0
+[2025-07-09T19:13:42.530Z] INFO: Navigating to Demoblaze homepage
+[2025-07-09T19:13:43.587Z] INFO: Adding first product to cart
+[2025-07-09T19:13:46.198Z] INFO: Returning to homepage
+[2025-07-09T19:13:46.227Z] INFO: Adding second product to cart
+[2025-07-09T19:13:47.278Z] INFO: Navigating to cart page
+[2025-07-09T19:13:47.650Z] INFO: Verifying total price
+[2025-07-09T19:13:47.661Z] INFO: Total price in cart: 0
+[2025-07-09T19:21:39.325Z] INFO: Navigating to Demoblaze homepage
+[2025-07-09T19:21:40.407Z] INFO: Adding first product to cart
+[2025-07-09T19:21:43.612Z] INFO: Returning to homepage
+[2025-07-09T19:21:43.642Z] INFO: Adding second product to cart
+[2025-07-09T19:21:45.056Z] INFO: Navigating to cart page
+[2025-07-09T19:21:45.379Z] INFO: Verifying total price
+[2025-07-09T19:21:46.759Z] INFO: Total price in cart: 1180
+[2025-07-09T19:35:34.212Z] INFO: Navigating to homepage
+[2025-07-09T19:35:34.261Z] INFO: Navigating to landing page
+[2025-07-09T19:35:34.668Z] INFO: Navigating to Cart page
+[2025-07-09T19:35:35.851Z] INFO: Clicking on Samsung galaxy s6
+[2025-07-09T19:35:35.856Z] INFO: Current URL: https://demoblaze.com/
+[2025-07-09T19:35:36.015Z] INFO: Clicking on Nokia lumia 1520
+[2025-07-09T19:35:38.692Z] INFO: Adding Samsung to cart
+[2025-07-09T19:35:38.877Z] INFO: Adding Nokia to cart
+[2025-07-09T19:45:46.613Z] INFO: Navigating to Demoblaze homepage...
+[2025-07-09T19:45:48.010Z] INFO: Landed on: https://demoblaze.com/
+[2025-07-09T19:45:54.407Z] INFO: Cart total: 1180
+[2025-07-09T20:34:37.439Z] INFO: Navigating to Demoblaze homepage...
+[2025-07-09T20:34:38.750Z] INFO: Landed on: https://demoblaze.com/
+[2025-07-09T20:34:44.753Z] INFO: Total price is: 1180
